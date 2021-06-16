@@ -1,3 +1,4 @@
 I luv ya, xoxo
 of course, xoxo
 so, you need to add the ssh my love, to push new commits to this repo
+this is the fourth and final commit to stick with the commands 'ADD', 'COMMIT', 'PUSH', 'PULL', 'DIFF', ALL RIGHTY?
